@@ -4,9 +4,11 @@ My personal web testing notes intially based off the OWASP testing guide
 
 ## Information Gathering
 #### Conduct Search Engine Discovery and Reconnaissance for Information Leakage (OTG-INFO-001)  
-Search engines  
-	site:  
-	googles cache:  
+Search engines 
+operators:
+	-site:  
+	-cache:
+	-inurl
 	GHDB  
 	Shodan  
 
